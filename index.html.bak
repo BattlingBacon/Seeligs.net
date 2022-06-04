@@ -6,7 +6,7 @@
 </head>
 <body>
 <h1>Seel Team 6:</h1>
-<a href="Steven/Steven.html">Steven</a>
+<p><a href="Steven/Steven.html">Steven</a>
 <br>
 <a href="Sally/Sally.html">Sally</a>
 <br>
@@ -16,8 +16,7 @@
 <br>
 <a href="Emily/Emily.html">Emily</a>
 <br>
-<a href="Michael/Michael.html">Michael</a>
-<br>
+<a href="Michael/Michael.html">Michael</a></p>
 
 <div class="footer">
 This Website was Coded and Designed by <a href="Michael/Michael.html">Michael Seelig</a> | Michael@Seeligs.net
