@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Ok, Boomer.</title>
+  <link rel="stylesheet" href="../Seeligs.css">
+  <link rel="stylesheet" href="Steven.css">
+</head>
+<body>
+<h1>Boomer.</h1>
+
+<p><img src="boomer.jpg" alt="Headshot Photo of Steven" align="center" style="border-style: outset;border-color: green">
+<p><a href="../index.html">Back to Home Page</a></p>
+
+<div class="footer">
+This Website was Coded and Designed by Michael Seelig<br>Michael@Seeligs.net
+</div>
+</body>
+</html>

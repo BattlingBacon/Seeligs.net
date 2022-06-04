@@ -1,0 +1,14 @@
+body
+{
+  background-color: #ccffee;
+}
+
+.footer {
+   position: fixed;
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   background-color: #9999ff;
+   color: white;
+   text-align: center;
+}
