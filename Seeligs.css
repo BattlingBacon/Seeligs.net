@@ -3,6 +3,18 @@ body
   background-color: #ccffee;
 }
 
+h1
+{
+  text-align: center;
+  font-size: 40px;
+}
+
+p
+{
+  font-family: verdana;
+  font-size: 20px;
+}
+
 .footer {
    position: fixed;
    left: 0;
